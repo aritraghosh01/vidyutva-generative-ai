@@ -144,3 +144,67 @@ We welcome contributions! Please adhere to our [Contribution Guidelines](CONTRIB
 - **[MetaGPT](https://github.com/geekan/MetaGPT):** A Multi-Agent Framework that translates requirements into PRD, design, tasks, and repository setup.
 - **[Open Interpreter](https://github.com/KillianLucas/open-interpreter):** Run OpenAI's Code Interpreter locally in your terminal.
 
+## Developer Tools
+
+- **[co:here](https://cohere.ai/):** Access advanced Large Language Models and NLP tools for development purposes.
+- **[Haystack](https://haystack.deepset.ai/):** A versatile framework to build NLP applications such as agents, semantic search, and question-answering systems.
+- **[LangChain](https://langchain.com/):** Develop applications utilizing the capabilities of language models.
+- **[gpt4all](https://github.com/nomic-ai/gpt4all):** A chatbot trained on a diverse dataset including code, stories, and dialogues.
+- **[LMQL](https://lmql.ai/):** A dedicated query language for interacting with large language models.
+- **[LlamaIndex](https://www.llamaindex.ai/):** A framework for creating LLM applications using external data sources.
+- **[Phoenix](https://phoenix.arize.com/):** An open-source ML observability tool by Arize, optimal for LLM, CV, and tabular models.
+- **[Cursor](https://www.cursor.so/):** The future's IDE, designed for pair-programming with advanced AI features.
+
+## Agents
+
+### Autonomous Agents
+
+- **[Auto-GPT](https://github.com/Torantulino/Auto-GPT):** An open-source project aiming to create a fully autonomous GPT-4.
+- **[babyagi](https://github.com/yoheinakajima/babyagi):** An AI-powered system for efficient task management.
+- **[AgentGPT](https://github.com/reworkd/AgentGPT):** Tool to create, configure, and deploy AI Agents directly from a browser.
+- **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer):** Define your build requirements and let the AI handle the rest, including clarifications.
+- **[GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer):** Automated tool for generating, testing, and optimizing prompts.
+- **[MetaGPT](https://github.com/geekan/MetaGPT):** A framework that translates requirements into comprehensive project deliverables.
+- **[AutoGen](https://github.com/microsoft/autogen):** A multi-agent framework by Microsoft for developing complex LLM applications.
+- **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot):** A tool for developing scalable applications with AI assistance.
+
+### Custom Assistants
+
+- **[Poe](https://poe.com/):** A platform offering a variety of custom AI bots.
+- **[GPT Builder](https://chat.openai.com/gpts/editor):** A user-friendly assistant for creating GPT-based AI tools.
+
+## Image Generation
+
+### Models
+
+- **[DALL·E 2](https://openai.com/dall-e-2/):** OpenAI's AI system that generates realistic images and art from text descriptions.
+- **[Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4):** A text-to-image model by Stability AI, capable of generating detailed images from text prompts. #opensource
+- **[Midjourney](https://www.midjourney.com/):** An independent research lab exploring new thought mediums and expanding human creativity.
+- **[Imagen](https://imagen.research.google/):** Google's text-to-image diffusion model known for its photorealism and deep language understanding.
+- **[Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/):** Meta's AI method allowing users to generate images using text and sketches.
+- **[DragGAN](https://github.com/XingangPan/DragGAN):** Interactive tool for manipulating generative image models.
+
+### Services
+
+- **[Craiyon](https://www.craiyon.com/):** Formerly DALL-E mini, an AI model for drawing images from text prompts.
+- **[DreamStudio](https://beta.dreamstudio.ai/):** A user-friendly interface for Stable Diffusion's image generation capabilities.
+- **[Artbreeder](https://www.artbreeder.com/):** A creative tool for collaborative art creation and exploration.
+- **[GauGAN2](http://gaugan.org/gaugan2/):** An advanced tool for creating photorealistic art using text and sketches.
+- **[Magic Eraser](https://www.magiceraser.io/):** Quickly remove unwanted elements from images.
+- **[Imagine by Magic Studio](https://magicstudio.com/imagine):** Express your ideas through descriptions to create visual content.
+- **[Alpaca](https://www.getalpaca.io/):** A Photoshop plugin utilizing Stable Diffusion.
+- **[Patience.ai](https://www.patience.ai/):** Create images using Stable Diffusion with this intuitive app.
+- **[GenShare](https://www.genshare.io/):** A platform for generating and sharing art, democratizing design.
+- **[Playground AI](https://playgroundai.com/):** A free online tool for creating AI-generated images for various purposes.
+- **[Pixelz AI Art Generator](https://pixelz.ai/):** Generate art from text using various algorithms.
+- **[modyfi](https://www.modyfi.io/):** An AI-powered image editor offering real-time collaboration.
+- **[Ponzu](https://www.ponzu.ai/):** Create unique logos with this free AI logo generator.
+- **[PhotoRoom](https://www.photoroom.com/):** Produce product and portrait pictures using just your phone.
+- **[Avatar AI](https://avatarai.me/):** Generate personalized AI avatars.
+- **[ClipDrop](https://clipdrop.co/):** Create professional visuals with AI assistance.
+- **[Lensa](https://prisma-ai.com/lensa):** An all-in-one image editing app, including personalized avatar generation.
+- **[RunDiffusion](https://rundiffusion.com/):** A cloud-based workspace for AI art creation.
+- **[Ideogram](https://ideogram.ai/):** A platform for making creative expression more accessible through text-to-image AI.
+- **[KREA](https://www.krea.ai/):** Generate high-quality visuals tailored to your style and concept.
+- **[Nightcafe](https://creator.nightcafe.studio/):** An AI Art Generator app with multiple AI art generation methods.
+
