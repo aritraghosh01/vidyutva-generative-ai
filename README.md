@@ -208,3 +208,39 @@ We welcome contributions! Please adhere to our [Contribution Guidelines](CONTRIB
 - **[KREA](https://www.krea.ai/):** Generate high-quality visuals tailored to your style and concept.
 - **[Nightcafe](https://creator.nightcafe.studio/):** An AI Art Generator app with multiple AI art generation methods.
 
+## Graphic Design Tools
+
+- **[Brandmark](https://brandmark.io/):** An AI-driven tool for designing logos efficiently.
+- **[Gamma](https://gamma.app/):** Simplify the creation of presentations and webpages with automated design and formatting.
+- **[Microsoft Designer](https://designer.microsoft.com/):** Quickly create stunning designs with Microsoft's intuitive tool.
+
+## Image Libraries
+
+- **[Lexica](https://lexica.art/):** A search engine specifically for Stable Diffusion-generated images.
+- **[Libraire](https://libraire.ai/):** Boasts the largest collection of AI-generated images for various applications.
+- **[OpenArt](https://openart.ai/):** Search over 10 million prompts and generate AI art using Stable Diffusion and DALL·E 2.
+
+## Model Libraries
+
+- **[Civitai](https://civitai.com/):** A community-driven platform for sharing AI models.
+- **[Stable Diffusion Models](https://rentry.org/sdmodels):** A comprehensive list of Stable Diffusion checkpoints, hosted on rentry.org.
+
+## Stable Diffusion Resources
+
+- **[Stable Horde](https://stablehorde.net/):** A collaborative, distributed cluster of Stable Diffusion workers.
+- **[DiffusionDB](https://diffusiondb.com/):** An extensive list of public apps, developer tools, guides, and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
+- **[PublicPrompts](https://publicprompts.art/):** A collection of free, creative prompts for Stable Diffusion.
+- **[Stableboost](https://stableboost.ai/):** A web UI for Stable Diffusion, facilitating rapid generation of multiple images.
+- **[Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class):** Online course materials for learning about diffusion models, provided by [@huggingface](https://github.com/huggingface).
+
+## Video Creation Tools
+
+- **[RunwayML](https://runwayml.com/):** A next-generation content creation suite with AI tools, real-time collaboration, and precision editing.
+- **[Synthesia](https://www.synthesia.io/):** Generate videos from text in a matter of minutes.
+- **[Rephrase AI](https://www.rephrase.ai/):** Create hyper-personalized videos at scale, enhancing engagement and efficiency.
+- **[Hour One](https://hourone.ai/):** Convert text to video using virtual presenters, automatically.
+- **[D-ID](https://www.d-id.com/):** Easily create and interact with talking avatars.
+- **[Colossyan](https://www.colossyan.com/):** An AI video creator focused on learning and development, capable of producing educational videos in multiple languages.
+- **[Fliki](https://fliki.ai/):** Quickly create text-to-video and text-to-speech content with AI-powered voices.
+- **[Pictory](https://pictory.ai/):** Leverage Pictory's AI to create and edit professional-quality videos from text.
+
