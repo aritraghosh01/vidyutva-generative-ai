@@ -107,4 +107,17 @@ Please ensure your submissions comply with our [Contribution Guidelines](CONTRIB
 ## Other Categories
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering, enabling creation and sharing of prompts.
-- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) -
+- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Comprehensive framework and models for AI applications in finance.
+
+## Educational Resources
+
+- [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - Guidebook for leveraging AI in coding with tools like Copilot and ChatGPT.
+
+## Comprehensive Lists
+
+- [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collection of libraries, services, and research papers on vector search.
+- [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and models with useful information.
+
+### ChatGPT Focused Lists
+
+## Autonomous Agents
