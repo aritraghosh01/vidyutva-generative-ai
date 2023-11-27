@@ -92,7 +92,6 @@ We welcome contributions! Please adhere to our [Contribution Guidelines](CONTRIB
 - [Merlin](https://merlin.foyer.work/) - ChatGPT Plus on all websites.
 - [ChatGPT Writer](https://chatgptwriter.ai/) - Generate emails and messages with ChatGPT AI.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - ChatGPT functions in Jupyter Notebooks.
-- [editGPT](https://www.editgpt.app/) - Proofread and edit with chatGPT.
 - [editGPT](https://www.editgpt.app/): - A tool for proofreading, editing, and tracking changes in chatGPT-generated content, ensuring quality and precision.
 - [Chatbot UI](https://www.chatbotui.com/): - A robust, open-source user interface for ChatGPT interactions. Access the [source code](https://github.com/mckaywrigley/chatbot-ui) for more details.
 - [Forefront](https://www.forefront.ai/): - Elevate your ChatGPT experience with Forefront, offering enhanced interaction capabilities.
@@ -110,3 +109,38 @@ We welcome contributions! Please adhere to our [Contribution Guidelines](CONTRIB
 - **[Cogram](https://www.cogram.com/):** Automate your meeting notes with Cogram, which also highlights action items in virtual meetings.
 - **[Sybill](https://www.sybill.ai/):** Sybill provides insightful summaries of sales calls, identifying key points like next steps, pain points, and interests, using a mix of transcript and emotional analysis.
 - **[Loopin AI](https://www.loopinhq.com/):** Transform your meetings with Loopin, an AI-powered collaborative workspace that not only records and transcribes meetings but also organizes notes efficiently in your calendar.
+
+# Specialized AI Tools for Academic and Technical Applications
+
+## Tools for Academia
+
+- **[Elicit](https://elicit.org/):** Automate parts of your research workflows, including literature reviews, with Elicit's language model technology.
+- **[genei](https://www.genei.io/):** Rapidly summarize academic articles, reducing research time by up to 80%.
+- **[Explainpaper](https://www.explainpaper.com/):** Enhance your understanding of academic papers by uploading, highlighting, and receiving explanations for complex text.
+- **[Galactica](https://galactica.org/):** A comprehensive language model for scientific applications. Capabilities include summarizing academic literature, solving math problems, generating Wiki articles, writing scientific code, and more. Access the [Model API](https://github.com/paperswithcode/galai) for integration.
+- **[Consensus](https://consensus.app/search/):** An AI-driven search engine designed to extract answers from scientific research.
+
+## Other Text Generation Tools
+
+- **[EmailTriager](https://www.emailtriager.com/):** Utilize AI to draft email replies automatically.
+- **[AI Poem Generator](https://www.aipoemgenerator.org):** Create rhyming poems on any subject with AI assistance.
+
+## AI Tools for Coding
+
+- **[GitHub Copilot](https://github.com/features/copilot):** Get real-time code and function suggestions in your editor, powered by OpenAI Codex.
+- **[OpenAI Codex](https://platform.openai.com/docs/guides/code/):** An advanced AI system by OpenAI for translating natural language into code.
+- **[Ghostwriter](https://blog.replit.com/ai):** Replit's AI-powered programming assistant for code development.
+- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/):** Speed up application development with this ML-powered coding companion.
+- **[Tabnine](https://www.tabnine.com/):** Enhance your coding efficiency with advanced code completion capabilities.
+- **[Stenography](https://stenography.dev/):** Automate your code documentation process.
+- **[Mintlify](https://mintlify.com/):** Generate documentation for your code with AI assistance.
+- **[Debuild](https://debuild.app/):** An AI-powered low-code tool for developing web applications.
+- **[AI2sql](https://www.ai2sql.io/):** Write efficient SQL queries without SQL knowledge, suitable for both engineers and non-engineers.
+- **[CodiumAI](https://www.codium.ai/):** Receive non-trivial test suggestions directly in your IDE for confident code pushes.
+- **[PR-Agent](https://github.com/Codium-ai/pr-agent):** An AI tool for automated PR analysis and feedback.
+- **[MutableAI](https://mutable.ai/):** Accelerate software development with the power of AI.
+- **[TurboPilot](https://github.com/ravenscroftj/turbopilot):** A self-hosted copilot alternative running the Salesforce Codegen model efficiently.
+- **[GPT-Code UI](https://github.com/ricklamers/gpt-code-ui):** An open-source implementation of OpenAI's ChatGPT Code interpreter.
+- **[MetaGPT](https://github.com/geekan/MetaGPT):** A Multi-Agent Framework that translates requirements into PRD, design, tasks, and repository setup.
+- **[Open Interpreter](https://github.com/KillianLucas/open-interpreter):** Run OpenAI's Code Interpreter locally in your terminal.
+
