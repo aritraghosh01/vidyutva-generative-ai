@@ -93,3 +93,20 @@ We welcome contributions! Please adhere to our [Contribution Guidelines](CONTRIB
 - [ChatGPT Writer](https://chatgptwriter.ai/) - Generate emails and messages with ChatGPT AI.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - ChatGPT functions in Jupyter Notebooks.
 - [editGPT](https://www.editgpt.app/) - Proofread and edit with chatGPT.
+- [editGPT](https://www.editgpt.app/): - A tool for proofreading, editing, and tracking changes in chatGPT-generated content, ensuring quality and precision.
+- [Chatbot UI](https://www.chatbotui.com/): - A robust, open-source user interface for ChatGPT interactions. Access the [source code](https://github.com/mckaywrigley/chatbot-ui) for more details.
+- [Forefront](https://www.forefront.ai/): - Elevate your ChatGPT experience with Forefront, offering enhanced interaction capabilities.
+
+## Enhancing Productivity with AI
+
+- **[Mem](https://mem.ai/):** Experience the world's first AI-powered workspace tailored to your needs. Enhance creativity, automate routine tasks, and organize seamlessly.
+- **[Taskade](https://www.taskade.com/):** Taskade AI helps you create structured lists, mind maps, and notes, streamlining your task management and note-taking processes.
+- **[Notion AI](https://www.notion.so/product/ai):** Empower your note-taking and document creation with efficient and smarter writing tools.
+- **[Nekton AI](https://nekton.ai):** Streamline and automate your workflows by describing your process in simple language, powered by AI.
+
+## AI-Driven Meeting Assistants
+
+- **[Otter.ai](https://otter.ai/):** A comprehensive meeting assistant for recording audio, capturing slides, writing notes, and generating summaries automatically.
+- **[Cogram](https://www.cogram.com/):** Automate your meeting notes with Cogram, which also highlights action items in virtual meetings.
+- **[Sybill](https://www.sybill.ai/):** Sybill provides insightful summaries of sales calls, identifying key points like next steps, pain points, and interests, using a mix of transcript and emotional analysis.
+- **[Loopin AI](https://www.loopinhq.com/):** Transform your meetings with Loopin, an AI-powered collaborative workspace that not only records and transcribes meetings but also organizes notes efficiently in your calendar.
