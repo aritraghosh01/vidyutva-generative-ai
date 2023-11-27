@@ -244,3 +244,63 @@ We welcome contributions! Please adhere to our [Contribution Guidelines](CONTRIB
 - **[Fliki](https://fliki.ai/):** Quickly create text-to-video and text-to-speech content with AI-powered voices.
 - **[Pictory](https://pictory.ai/):** Leverage Pictory's AI to create and edit professional-quality videos from text.
 
+# Advanced AI Tools for Animation, Audio, and Other Creative Endeavors
+
+## Animation
+
+### Audio Generation
+
+#### Speech Synthesis
+
+- **[Eleven Labs](https://beta.elevenlabs.io/):** Advanced AI voice generator for various applications.
+- **[Resemble AI](https://www.resemble.ai/):** AI-driven voice generator and cloning tool for text-to-speech solutions.
+- **[WellSaid](https://wellsaidlabs.com/):** Convert text to realistic voice in real-time.
+- **[Play.ht](https://play.ht/):** Generate realistic text-to-speech voiceovers online with AI technology.
+- **[Coqui](https://coqui.ai/):** Specializing in generative AI for voice creation.
+- **[podcast.ai](https://podcast.ai/):** An entirely AI-generated podcast, utilizing Play.ht's text-to-voice AI.
+- **[VALL-E X](https://vallex-demo.github.io/):** Cross-lingual neural codec language model for speech synthesis.
+- **[TorToiSe](https://github.com/neonbjb/tortoise-tts):** High-quality, multi-voice text-to-speech system. #opensource
+- **[Bark](https://github.com/suno-ai/bark):** Transformer-based text-to-audio model. #opensource
+
+#### Music Composition
+
+- **[Harmonai](https://www.harmonai.org/):** Open-source generative audio tools for making music production more accessible.
+- **[Mubert](https://mubert.com/):** Royalty-free music ecosystem for content creators and developers.
+- **[MusicLM](https://google-research.github.io/seanet/musiclm/examples/):** Google Research's model for generating high-fidelity music from text descriptions.
+- **[AudioCraft](https://audiocraft.metademolab.com/):** Comprehensive codebase for generative audio, including MusicGen and AudioGen. #opensource
+- **[Stable Audio](https://stability.ai/stable-audio):** Stability AI's tool for music and sound effect generation.
+- **[AIVA](https://www.aiva.ai/):** AI-powered music generation assistant with a wide range of styles.
+
+## Other Creative AI Applications
+
+- **[Diagram](https://diagram.com/):** Innovative product design solutions.
+- **[PromptBase](https://promptbase.com/):** Marketplace for high-quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
+- **[This Image Does Not Exist](https://thisimagedoesnotexist.com/):** Challenge your perception of AI-generated versus human-made images.
+- **[Have I Been Trained?](https://haveibeentrained.com/):** Check if your images have been used in popular AI art models.
+- **[AI Dungeon](https://aidungeon.io/):** Direct and star in your own text-based adventure-story game, brought to life by AI.
+- **[Clickable](https://www.clickable.so/):** Generate visually appealing, brand-consistent ads for all channels with AI.
+- **[Scale Spellbook](https://scale.com/spellbook):** Platform for building, comparing, and deploying large language model apps.
+- **[Scenario](https://www.scenario.com/):** AI-generated gaming assets for enhanced game development.
+- **[Teleprompter](https://github.com/danielgross/teleprompter):** An AI assistant for meetings that provides charismatic quote suggestions.
+- **[FinChat](https://finchat.io/):** AI-generated answers for queries about public companies and investors.
+
+## Learning Resources for AI and Prompt Engineering
+
+- **[Learn Prompting](https://learnprompting.org/):** A free, open-source course on effective communication with AI.
+- **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):** Comprehensive resources for mastering prompt engineering.
+- **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/):** A focused course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
+- **[OpenAI Cookbook](https://github.com/openai/openai-cookbook):** Practical examples and guides for using the OpenAI API.
+
+## Comprehensive Lists of AI Tools and Applications
+
+- **[Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html):** A vast collection of Google Colab notebooks for generative AI by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
+- **[The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880):** Infographic mapping the generative AI ecosystem by Sonya Huang of Sequoia Capital.
+- **[Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT):** A curated list of startups in the AI space by [@builtwithgenai](https://twitter.com/builtwithgenai).
+- **[The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO):** A comprehensive list by Scale Venture Partners.
+- **[Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912):** Market map of companies in the Generative AI for games sector by a16z.
+- **[Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art):** Curated list of generative deep learning tools for art by [@filipecalegario](https://github.com/filipecalegario/).
+- **[GPT-3 Demo](https://gpt3demo.com/):** Showcases and use-cases of GPT-3 applications.
+- **[GPT-4 Demo](https://gpt4demo.com/):** Compilation of GPT-4 applications and use-cases.
+- **[The Generative AI Landscape](https://github.com/ai-collection/ai-collection):** A collection of outstanding Generative AI applications.
+- **[Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL):** List of molecular design resources using Generative AI and Deep Learning.
+- **[Open LLMs](https://github.com/eugeneyan/open-llms):** A list of open large language models available for commercial use.
